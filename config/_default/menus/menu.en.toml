@@ -1,0 +1,25 @@
+#  menu items
+[[main]]
+  name = "Blog"
+  weight = 3
+  url = "blog/"
+
+[[main]]
+  name = "Databases"
+  weight = 2
+  url = "databases/"
+
+[[main]]
+  name = "Tutorials"
+  weight = 3
+  url = "tutorials/"
+
+#[[main]]
+#  name = "Example"
+#  weight = 3
+#  url = "https://docs.neuralvibes.com"
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
