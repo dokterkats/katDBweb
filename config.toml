@@ -1,4 +1,4 @@
-baseURL = "example.org"
+baseURL = "/"
 title = "KatDB"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
