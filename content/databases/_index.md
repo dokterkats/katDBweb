@@ -8,6 +8,7 @@ This website consists of four databases:
 * Oculus PC
 * Oculus Quest
 * Playstation VR
+
 Use the Search bar, at the top of the page(PC) or on the side bar(Mobile) to search trough these Databases. Game entries will have their platform specified next to their name. This might be changed in order to prevent duplicates. 
 <!--
 {{< column >}}
