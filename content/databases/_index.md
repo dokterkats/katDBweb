@@ -1,5 +1,5 @@
 ---
-title: "Databases"
+title: "databases"
 weight: 1
 ---
 

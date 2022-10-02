@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-# docSections = ["docs", "tutorials"]
+docSections = ["docs", "tutorials", "databases"]
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
@@ -36,6 +36,4 @@ codeLineNumbers = false
 [author]
   name = "Dokterkat"
   url = "https://github.com/dokterkats/"
-  
-  docSections = ["docs", "Tutorials", "tutorials" "Databases"]
 
