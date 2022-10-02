@@ -1,8 +1,8 @@
 #  menu items
-[[main]]
-  name = "Blog"
-  weight = 3
-  url = "blog/"
+#[[main]]
+#  name = "Blog"
+#  weight = 3
+#  url = "blog/"
 
 [[main]]
   name = "Databases"
