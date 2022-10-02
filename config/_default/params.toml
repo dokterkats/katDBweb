@@ -36,3 +36,5 @@ codeLineNumbers = false
 [author]
   name = "Dokterkat"
   url = "https://github.com/dokterkats/"
+  
+  docSections = ["databases"]
