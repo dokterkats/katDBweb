@@ -4,10 +4,10 @@ weight: 1
 ---
 
 This website consists of four databases:
-* (SteamVR)[/steamvr]
-* (Oculus PC)[/oculuspc]
-* (Oculus Quest)[/oculusquest]
-* (Playstation VR)[/psvr]
+(SteamVR)[/steamvr]
+(Oculus PC)[/oculuspc]
+(Oculus Quest)[/oculusquest]
+(Playstation VR)[/psvr]
 
 Use the Search bar, at the top of the page(PC) or on the side bar(Mobile) to search trough these Databases. Game entries will have their platform specified next to their name. This might be changed in order to prevent duplicates. 
 <!--
