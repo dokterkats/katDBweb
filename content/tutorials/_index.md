@@ -1,5 +1,5 @@
 ---
-title: "Tutorials/Guides"
+title: "Tutorials"
 weight: 1
 ---
 
