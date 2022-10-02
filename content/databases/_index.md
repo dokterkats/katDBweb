@@ -4,10 +4,18 @@ weight: 1
 ---
 
 This website consists of four databases:
+{{< column >}}
 [SteamVR](/steamvr)
+{{< /column >}}
+{{< column >}}
 [Oculus PC](/oculuspc)
+{{< /column >}}
+{{< column >}}
 [Oculus Quest](/oculusquest)
+{{< /column >}}
+{{< column >}}
 [Playstation VR](/psvr)
+{{< /column >}}
 
 <!--
 {{< column >}}
