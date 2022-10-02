@@ -1,5 +1,5 @@
 # use the setting below to set multiple docs directories.
-docSections = ["docs", "tutorials", "databases"]
+docSections = ["tutorials", "steamvr", "oculuspc", "oculusquest", "psvr"]
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
