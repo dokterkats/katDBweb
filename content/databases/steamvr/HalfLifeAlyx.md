@@ -16,3 +16,6 @@ The game *does* support decoupled head-body movement.
 
 ### Date of review:
 unknown
+
+####Keywords:
+Half Life, Half-Life, Alyx, HL:A

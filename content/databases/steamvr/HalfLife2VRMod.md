@@ -16,3 +16,6 @@ The game *does* support decoupled head-body movement.
 
 ### Date of review:
 September 2022
+
+#### Keywords:
+Half Life, Half-Life, HL2
