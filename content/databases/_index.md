@@ -5,18 +5,21 @@ weight: 1
 
 This website consists of four databases:
 {{< column >}}
-[SteamVR](/steamvr)
+[* SteamVR](/steamvr)
 {{< /column >}}
 {{< column >}}
-[Oculus PC](/oculuspc)
+[* Oculus PC](/oculuspc)
 {{< /column >}}
 {{< column >}}
-[Oculus Quest](/oculusquest)
+[* Oculus Quest](/oculusquest)
 {{< /column >}}
 {{< column >}}
-[Playstation VR](/psvr)
+[* Playstation VR](/psvr)
 {{< /column >}}
 
+{{< tip >}}
+Searching on this page results in no matches. Please click on one of the platforms above and search from there!
+{{< /tip >}}
 <!--
 {{< column >}}
 {{< button "/databases/steamvr/" "SteamVR" >}}
