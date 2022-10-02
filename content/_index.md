@@ -13,10 +13,10 @@ title = "Projects"
 
 # This is a database of game states for **KatVR Products**.
 
-Welcome to KatDB! A website for KatVR game compatibility reports, inspired by similar sites such as [protonDB](https://www.protondb.com/) and [Plexus](https://plexus.techlore.tech/)
+Welcome to KatDB! A website for KatVR game compatibility reports.
 
 {{< tip >}}
-KatDB is a crowdsourced project that relies on the community. You can contrube [here](https://github.com/dokterkats/katDB)
+KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://github.com/dokterkats/katDB)
 {{< /tip >}}
 <!--
 {{< column >}}
