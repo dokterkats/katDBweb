@@ -37,5 +37,5 @@ codeLineNumbers = false
   name = "Dokterkat"
   url = "https://github.com/dokterkats/"
   
-  docSections = ["docs", "databases"]
+  docSections = ["docs", "Databases"]
 

@@ -1,5 +1,5 @@
 ---
-title: "Docs"
+title: "docs"
 weight: 1
 ---
 
