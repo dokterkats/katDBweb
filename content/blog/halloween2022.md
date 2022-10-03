@@ -14,23 +14,23 @@ You can enter this giveaway by contributing to the KatDB. You can do this by pla
 
 You can contribute by playing a game on your KatVR device,  while playing you want to take note of the following things:
 {{< column >}}
-[-] Does the game require a joystick press to sprint?
-[-] Does the game have a option for HMD/Head oriented movement? If so, is it set by default or do you need to change it in the Settings?
-[-] Are the worlds in the game even big enough to fully walk around in?
-[-] Does the game have a low delay in registering the starting and stopping of movement?
+1: Does the game require a joystick press to sprint?
+2: Does the game have a option for HMD/Head oriented movement? If so, is it set by default or do you need to change it in the Settings?
+3: Are the worlds in the game even big enough to fully walk around in?
+4: Does the game have a low delay in registering the starting and stopping of movement?
 {{< /column >}}
 
 Every game submission equals one entry. Submitting your entries goes through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdV8iFVUnStbgX36fq0U8pHco3m54bwsRD0QfButH9fxyrmnw).
 
 ### Rules:
 {{< column >}}
-* One review = 1 entry
+1: One review = 1 entry
 {{< /column >}}
 {{< column >}}
-* Multiple entries are allowed, but each additional post must be a new review.
+2: Multiple entries are allowed, but each additional post must be a new review.
 {{< /column >}}
 {{< column >}}
-* Entries must be unique to the KatDB Website, please check if your game is already in the database by clicking [here][https://katdb.info/steamvr/]!
+3: Entries must be unique to the KatDB Website, please check if your game is already in the database by clicking [here][https://katdb.info/steamvr/]!
 {{< /column >}}
 
 ### About DEVOUR:
