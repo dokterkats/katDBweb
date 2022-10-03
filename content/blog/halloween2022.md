@@ -25,7 +25,7 @@ Every game submission equals one entry. Submitting your entries goes through thi
 ### Rules:
 1. One review = 1 entry
 2. Multiple entries are allowed, but each additional post must be a new review.
-3. Entries must be unique to the KatDB Website, please check if your game is already in the database by clicking [here][https://katdb.info/steamvr/]!
+3. Entries must be unique to the KatDB Website, please check if your game is already in the database by clicking [here](https://katdb.info/steamvr/)!
 
 
 ### About DEVOUR:
