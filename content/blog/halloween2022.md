@@ -20,7 +20,7 @@ You can contribute by playing a game on your KatVR device,  while playing you wa
 4. Does the game have a low delay in registering the starting and stopping of movement?
 
 
-Every game submission equals one entry. Submitting your entries goes through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdV8iFVUnStbgX36fq0U8pHco3m54bwsRD0QfButH9fxyrmnw).
+Every game submission equals one entry. Submitting your entries goes through this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSdV8iFVUnStbgX36fq0U8pHco3m54bwsRD0QfButH9fxyrmnw/viewform?usp=sharing).
 
 ### Rules:
 1. One review = 1 entry
