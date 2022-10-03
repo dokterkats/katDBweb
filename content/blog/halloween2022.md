@@ -6,8 +6,8 @@ description = "Contribute to the Database and get the change to win a copy of DE
 tags = ["Giveaway"]
 image = "halloween2022.jpg"
 +++
-
-## 🎃 It's the Spooky season again! 🎃
+Contribute to the Database and get the change to win a copy of DEVOUR!
+## 🎃 It's Spooky season again! 🎃
 
 To celebrate this, I am happy to announce the first ever giveaway on the KatDB Website!
 You can enter this giveaway by contributing to the KatDB. You can do this by playing a game that is not in the database yet. Preferably spooky ones, but any new games are welcome! 
