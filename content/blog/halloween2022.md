@@ -23,7 +23,7 @@ Every game submission equals one entry. Submitting your entries goes through thi
 ### Rules:
 1. One review = 1 entry
 2. Multiple entries are allowed, but each additional post must be a new review.
-3. Entries must be unique to the KatDB Website, please check (here)[link] to see if your game is already in the Database!
+3. Entries must be unique to the KatDB Website, please check if your game is already in the database by clicking [here][https://katdb.info/steamvr/]!
 
 ### About DEVOUR:
 [DEVOUR](https://store.steampowered.com/app/1274570/DEVOUR/) is a co-op horror survival game for 1-4 players. You play a cult member who must try to stop the possessed cult leader from killing you (and your friends). The game can also be played single player if you prefer that. It runs quite well on the Kat Walk. You get the change to increase your in-game walking speed after your first game by spending a token on the speed upgrade.
