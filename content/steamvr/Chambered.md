@@ -13,6 +13,7 @@ Chambered *does not require* a Joystick Press in order to sprint.
 The world *is not* large enough to be enjoyable to explore on a KatVR device.
 The movement speed *does* feel realistic.
 The game *does not* support decoupled head-body movement.
+The game was tested on a *Valve Index* on the *Kat Walk C1*
 
 ### Date of review:
 July 2022

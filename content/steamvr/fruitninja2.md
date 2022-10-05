@@ -1,19 +1,18 @@
 ---
-title: Pangman (SteamVR)
+title: Fruit Ninja VR 2 (SteamVR)
 ---
 
 ## Rating (1-3)
 ⭐⭐
 
 ### Notes
-
+Respons well to Kat Gateway adjustments.
 
 #### Scoring explanaion:
-Pangman *does not require* a Joystick Press in order to sprint.
+Fruit Ninja VR 2 *does not require* a Joystick Press in order to sprint.
 The world *is not* large enough to be enjoyable to explore on a KatVR device.
 The movement speed *does* feel realistic.
 The game *does* support decoupled head-body movement.
-The game was tested on a *Valve Index* on the *Kat Walk C1*
-
+The game was tested on a *Oculus Rift S* on the *Kat Walk c2+*
 ### Date of review:
-February 2022
+October 4, 2022
