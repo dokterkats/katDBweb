@@ -17,3 +17,5 @@ It was tested on a *Oculus Rift S* on the *Kat Walk C2+*
 
 ### Date of review:
 October 8, 2022
+
+{{ template "_internal/disqus.html" . }}
