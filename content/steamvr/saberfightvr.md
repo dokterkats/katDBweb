@@ -15,6 +15,15 @@ The movement is *fast* and *abrubt*. Needs to be revisit to test settings.
 It is *not sure* if the game supports decoupled head-body movement. Something felt off while testing and it might have forced controller direction.
 The game was tested on a *Oculus Rift S* on the *Kat Walk C2+*
 
+<div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 7943;
+    var HYVOR_TALK_CONFIG = {
+        url: false,
+        id: false
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
 {{< tip "warning" >}}
 Needs to be revisited to clarify movement direction and gateway settings.
 {{< /tip >}}
