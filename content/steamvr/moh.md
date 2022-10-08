@@ -9,7 +9,7 @@ title: Medal of Honor (SteamVR)
 This game uses a stamina system for sprinting
 
 #### Scoring explanation:
-Medal of Honor: Above And Beyond does * a Joystick Press in order to sprint.
+Medal of Honor: Above And Beyond *does* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.
 The game *does* support decoupled head-body movement.
