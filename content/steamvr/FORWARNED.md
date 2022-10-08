@@ -8,7 +8,7 @@ title: FORWARNED (SteamVR)
 ### Notes
 There is a "Always Sprint" option in the settings, I recommend turning this on.
 
-#### Scoring explanaion:
+#### Scoring explanation:
 FORWARNED *does not require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

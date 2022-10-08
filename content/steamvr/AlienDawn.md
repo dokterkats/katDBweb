@@ -8,7 +8,7 @@ title: Alien Dawn (SteamVR)
 ### Notes
 
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Alien Dawn *does require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

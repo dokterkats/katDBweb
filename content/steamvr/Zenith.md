@@ -8,7 +8,7 @@ title: Zenith (SteamVR)
 ### Notes
 
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Zenith *does require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

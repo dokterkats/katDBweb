@@ -8,8 +8,8 @@ title: Half-Life 2 VRMod (SteamVR)
 ### Notes
 
 
-#### Scoring explanaion:
-Half-Life 2 VRMod *does not require* a Joystick Press in order to sprint.
+#### Scoring explanation:
+Half-Life 2 VR Mod *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.
 The game *does* support decoupled head-body movement.

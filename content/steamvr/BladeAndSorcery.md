@@ -8,7 +8,7 @@ title: Blade And Sorcery (SteamVR)
 ### Notes
 
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Blade And Sorcery *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

@@ -8,7 +8,7 @@ title: Zero Caliber (SteamVR)
 ### Notes
 There is a setting for auto sprinting in the in-game settings.
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Zero Caliber *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

@@ -8,7 +8,7 @@ title: Wakamarina Valley, New Zealand (SteamVR)
 ### Notes
 Set the input vector to Head in the in-game settings for decoupled head-body movement direction.
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Wakamarina Valley, NZ *does not require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

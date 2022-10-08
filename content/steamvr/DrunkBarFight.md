@@ -8,7 +8,7 @@ title: Drunk Bar Fight (SteamVR)
 ### Notes
 The Airport and Alleyway are big enough to be enjoyable
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Drunk Bar Fight *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed feels too *slow* to be realistic.

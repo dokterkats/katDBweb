@@ -8,7 +8,7 @@ title: VRChat (SteamVR)
 ### Notes
 There is a list containing some of the best VRChat worlds to explore in the [KatVR Community](https://discord.gg/JdJSRJcyA9) Discord Server
 
-#### Scoring explanaion:
+#### Scoring explanation:
 VRChat *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

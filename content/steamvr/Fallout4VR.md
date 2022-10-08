@@ -6,9 +6,9 @@ title: Fallout 4 VR (SteamVR)
 ⭐⭐
 
 ### Notes
-In the ingame menu, you can change the walking speed. There's 3 choices (slow, medium, and fast). Choose "fast". 
+In the in-game menu, you can change the walking speed. There's 3 choices (slow, medium, and fast). Choose "fast". 
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Fallout 4 VR *does require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed feels too *slow* to be realistic.

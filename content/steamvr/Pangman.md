@@ -8,7 +8,7 @@ title: Pangman (SteamVR)
 ### Notes
 
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Pangman *does not require* a Joystick Press in order to sprint.
 The world *is not* large enough to be enjoyable to explore on a KatVR device.
 The movement speed *does* feel realistic.

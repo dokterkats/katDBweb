@@ -8,7 +8,7 @@ title: Rec Room (SteamVR)
 ### Notes
 There is a setting for *Auto Sprinting* in-game.
 
-#### Scoring explanaion:
+#### Scoring explanation:
 Rec Room *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

@@ -1,14 +1,15 @@
 ---
-title: Medal Of Honor: Above And Beyond (SteamVR)
+title: Medal Of Honor: Above and Beyond 359 (SteamVR)
 ---
 
 ## Rating (1-3)
-⭐⭐⭐
+⭐⭐
 
 ### Notes
+This game uses a stamina system for sprinting
 
-#### Scoring explanaion:
-Medal Of Honor: Above And Beyond *does require* a Joystick Press in order to sprint.
+#### Scoring explanation:
+Island 359 *does * a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.
 The game *does* support decoupled head-body movement.
