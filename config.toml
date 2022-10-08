@@ -8,7 +8,7 @@ theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of
 enableGitInfo = true
 enableEmoji = true
 googleAnalytics = "G-T16W38JL4P"
-
+disqusShortname = "katdb-1"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
