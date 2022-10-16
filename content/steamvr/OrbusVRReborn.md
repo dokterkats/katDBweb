@@ -11,7 +11,7 @@ Have to choose between snap turning and strafe - at the moment, you cannot have 
 #### Scoring explanaion:
 Orbus VR Reborn *does not require* a Joystick Press in order to sprint.
 There *is* a huge world to explore.
-The movement is generally *fast*, does't have much slow
+The movement is generally *fast*.
 Couldn't get decoupled head-body movement working at time of testing. 
 Tested on a *Oculus Rift S* using the *Kat Walk C2+*
 
