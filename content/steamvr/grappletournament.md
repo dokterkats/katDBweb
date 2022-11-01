@@ -15,15 +15,9 @@ The movement speed is pretty *fast*, but it feels good.
 The game *does* support decoupled head-body movement.
 The game was tested on a *Oculus Rift S* on the *Kat Walk C2+* 
 
+### Credits:
+Anonymous entry
+
 ### Date of review:
 October 4, 2022
 
-<div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 7943;
-    var HYVOR_TALK_CONFIG = {
-        url: false,
-        id: false
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
