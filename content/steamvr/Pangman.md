@@ -5,8 +5,6 @@ title: Pangman (SteamVR)
 ## Rating (1-3)
 ⭐⭐
 
-### Notes
-
 
 #### Scoring explanation:
 Pangman *does not require* a Joystick Press in order to sprint.

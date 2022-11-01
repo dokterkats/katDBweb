@@ -5,8 +5,6 @@ title: Blade And Sorcery (SteamVR)
 ## Rating (1-3)
 ⭐⭐⭐
 
-### Notes
-
 
 #### Scoring explanation:
 Blade And Sorcery *does not require* a Joystick Press in order to sprint. Sprinting occurs when the user "pumps" their hands as if they were running in real life.

@@ -5,8 +5,6 @@ title: Arizona Sunshine (SteamVR)
 ## Rating (1-3)
 ⭐⭐⭐
 
-### Notes
-
 
 #### Scoring explanation:
 Arizona Sunshine *does require* a Joystick Press in order to sprint.
