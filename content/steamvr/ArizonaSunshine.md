@@ -6,7 +6,7 @@ title: Arizona Sunshine (SteamVR)
 ⭐⭐⭐
 
 
-#### Scoring explanation:
+### Scoring explanation:
 Arizona Sunshine *does require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

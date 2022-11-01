@@ -8,7 +8,7 @@ title: Apex Construct (SteamVR)
 ### Notes
 It is capable of linear locomotion by joystick sensitivity testing, but does not respond accordingly with the Kat Walk C.
 
-#### Scoring explanaion:
+### Scoring explanaion:
 Apex Construct *does not require* a Joystick Press in order to sprint. There is no sprint, although variable speeds exist, when using the Kat Walk C alone, it is always simply "fast".
 There are *several* isolated maps, which are each somewhat narrow.
 The movement speed is always *fast*. Reggardless of the Gateway settings. 

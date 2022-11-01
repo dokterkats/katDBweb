@@ -8,7 +8,7 @@ title: Fruit Ninja VR 2 (SteamVR)
 ### Notes
 Respons well to Kat Gateway adjustments.
 
-#### Scoring explanation:
+### Scoring explanation:
 Fruit Ninja VR 2 *does not require* a Joystick Press in order to sprint.
 The world *is not* large enough to be enjoyable to explore on a KatVR device.
 The movement speed *does* feel realistic.

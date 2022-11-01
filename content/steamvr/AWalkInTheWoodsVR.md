@@ -8,7 +8,7 @@ title: A Walk In The Woods VR (SteamVR)
 ### Notes
 The walking speed is adjustable in the beta version.
 
-#### Scoring explanation:
+### Scoring explanation:
 A Walk In The Woods VR *does not require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

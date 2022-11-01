@@ -8,7 +8,7 @@ title: Saber Fight VR (SteamVR)
 ### Notes
 Its not perfect, but not bad. It is significantly better than without a Kat Walk. THe direction is a bit odd.
 
-#### Scoring explanation:
+### Scoring explanation:
 Saber Fight VR *does not require* a Joystick Press in order to sprint.
 There are *small* randomly generated factory maps, its not aesthetically interesting, however, it is largely about the practive of lightsaber and force wielding, with the walking as a side effect.
 The movement is *fast* and *abrubt*. Needs to be revisit to test settings.

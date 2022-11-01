@@ -8,7 +8,7 @@ title: Half-Life Alyx (SteamVR)
 ### Notes
 Use the [Launch Options](https://katwalk.fandom.com/wiki/Half_Life_Alyx_Workaround:_Walking_Speed) to increase the walking speed.
 
-#### Scoring explanation:
+### Scoring explanation:
 Half-Life: Alyx *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

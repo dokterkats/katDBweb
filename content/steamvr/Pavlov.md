@@ -8,7 +8,7 @@ title: Pavlov (SteamVR)
 ### Notes
 There is as a *Auto Sprint* setting in-game
 
-#### Scoring explanation:
+### Scoring explanation:
 Pavlov *does not require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

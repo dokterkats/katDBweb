@@ -9,7 +9,7 @@ title: Gorn (SteamVR)
 There is a large arena. I had lots of fun playing in this arena on the Kat Walk C! ~Dokterkat
 You have to set the movement type to Smooth Locomotion in-game.
 
-#### Scoring explanation:
+### Scoring explanation:
 Gorn *does not require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

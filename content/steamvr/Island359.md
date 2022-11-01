@@ -8,7 +8,7 @@ title: Island 359 (SteamVR)
 ### Notes
 This game uses a stamina system for sprinting
 
-#### Scoring explanation:
+### Scoring explanation:
 Island 359 *does require* a Joystick Press in order to sprint.
 There *are multiple* large worlds to explore.
 The movement speed *does* feel realistic.

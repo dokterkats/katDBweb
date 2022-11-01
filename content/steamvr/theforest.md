@@ -5,7 +5,7 @@ title: theforest (SteamVR)
 ## Rating (1-3)
 ⭐⭐
 
-#### Scoring explanaion:
+### Scoring explanaion:
 theforest *does require* a Joystick Press in order to sprint.
 There *is* a large world to explore.
 The movement speed *does* feel realistic.

@@ -8,7 +8,7 @@ title: Ancients Dungeons VR (SteamVR)
 ### Notes
 Movement worked smoothly.
 
-#### Scoring explanaion:
+### Scoring explanaion:
 Ancients Dungeons *does not require* a Joystick Press in order to sprint.
 The worlds *are not* big/open.
 The movement speed *does* feel realistic.

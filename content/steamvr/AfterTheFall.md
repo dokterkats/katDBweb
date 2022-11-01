@@ -8,7 +8,7 @@ title: After The Fall (SteamVR)
 ### Notes
 There is a option available for auto-sprint in the settings
 
-#### Scoring explanation:
+### Scoring explanation:
 After The Fall *does not require* a Joystick Press in order to sprint.
 The movement speed *does* feel realistic.
 The game *does* support decoupled head-body movement when set to head oriented movement in-game.

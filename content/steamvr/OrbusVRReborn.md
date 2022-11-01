@@ -8,7 +8,7 @@ title: Orbus VR Reborn (SteamVR)
 ### Notes
 Have to choose between snap turning and strafe - at the moment, you cannot have both
 
-#### Scoring explanaion:
+### Scoring explanaion:
 Orbus VR Reborn *does not require* a Joystick Press in order to sprint.
 There *is* a huge world to explore.
 The movement is generally *fast*.
