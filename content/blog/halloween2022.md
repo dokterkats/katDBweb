@@ -2,6 +2,7 @@
 author = "Dokterkats"
 title = "KatDB Halloween VR giveaway!"
 date = "October 3 2022"
+sate = "2022-10-03"
 description = "Contribute to the Database and get the change to win a copy of DEVOUR!"
 tags = ["Giveaway"]
 image = "halloween2022.jpg"

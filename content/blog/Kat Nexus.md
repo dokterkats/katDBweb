@@ -2,6 +2,7 @@
 author = "Dokterkat"
 title = "KatVR Nexus"
 date = "November 1, 2022"
+date = "2022-11-01"
 description = "What we know"
 tags = ["Info"]
 image = "nexus.jpg"
