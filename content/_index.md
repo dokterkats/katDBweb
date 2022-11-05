@@ -18,14 +18,7 @@ Welcome to KatDB! A website for KatVR game compatibility reports.
 {{< tip >}}
 KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://github.com/dokterkats/katDB)
 {{< /tip >}}
-<!--
-{{< column >}}
-{{< button "docs/" "Databases" >}}
-{{< /column >}}
--->
-{{< column >}}
-ㅤ
-{{< /column >}}
+
 
 {{< /column >}}
 {{< /block >}}
