@@ -14,6 +14,9 @@ title = "Projects"
 # This is a database of game states for **KatVR Products**.
 
 Welcome to KatDB! A website for KatVR game compatibility reports.
+{{< tip >}}
+KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://github.com/dokterkats/katDB)
+{{< /tip >}}
 
 {{< tip >}}
 KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://github.com/dokterkats/katDB)
