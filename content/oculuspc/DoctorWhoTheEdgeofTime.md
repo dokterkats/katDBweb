@@ -1,12 +1,12 @@
 ---
-title: Doctor Who: The Edge of Time (OculusPC)
+title: Doctor Who (Oculus PC)
 ---
 
 ## Rating (1-3)
 ⭐
 
 ### Notes
-The user who submitted couldn't get it to work. Movement was always sideways from the looking direction. A revisit is welcome!
+Doctor Who: The Edge of Time. The user who submitted couldn't get it to work. Movement was always sideways from the looking direction. A revisit is welcome!
 
 #### Scoring explanaion:
 The game *does not require* a Joystick Press in order to sprint.
