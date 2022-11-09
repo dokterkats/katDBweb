@@ -4,6 +4,3 @@ weight: 10
 ---
 
 __Steam VR__ was the first supported platform by KatVR
-
-
-<!-- {{< button "./getting-started/" "Get started with Clarity" >}} -->

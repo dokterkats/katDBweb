@@ -3,6 +3,8 @@ Title: Playstation VR
 weight: 10
 ---
 
-__Hugo Clarity__ is a technology-minded theme for Hugo based on VMware's open-source [Clarity Design System](https://clarity.design/) featuring rich code support, dark/light mode, mobile support, and much more. See [a live demo at __neonmirrors.net__](https://neonmirrors.net/).
+There have not been any game submissions for the Playstation VR platform yet.
 
-{{< button "./getting-started/" "Get started with Clarity" >}}
+{{< tip >}}
+KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://github.com/dokterkats/katDB)
+{{< /tip >}}

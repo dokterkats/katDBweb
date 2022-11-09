@@ -3,6 +3,6 @@ Title: Oculus Quest
 weight: 10
 ---
 
-__Hugo Clarity__ is a technology-minded theme for Hugo based on VMware's open-source [Clarity Design System](https://clarity.design/) featuring rich code support, dark/light mode, mobile support, and much more. See [a live demo at __neonmirrors.net__](https://neonmirrors.net/).
+KatVR announced support for the Oculus Quest platform. It has however not been released yet. Stay tuned!
 
-{{< button "./getting-started/" "Get started with Clarity" >}}
+*Update!* KatVR has revealed the [Kat Nexus](https://www.kat-vr.com/products/kat-nexus) Quest game submissions will be added soon!
