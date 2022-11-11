@@ -8,6 +8,7 @@
   name = "Databases"
   weight = 2
   url = "databases/"
+  identifier = "db"
 
 [[main]]
   name = "Tutorials"
