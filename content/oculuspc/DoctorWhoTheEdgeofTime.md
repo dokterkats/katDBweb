@@ -16,7 +16,7 @@ The movement speed *did not* feel realistic.
 The game was tested on a *Oculus Quest* on the *Kat Walk C2* on *Gateway version 2.0.9*.
 
 ### Credits:
-Game entry by: Anonymous
+Game entry by: Corysia
 
 ### Date of review:
 November 1

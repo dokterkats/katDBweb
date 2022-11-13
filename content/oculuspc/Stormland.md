@@ -16,7 +16,7 @@ The game *does* support decoupled head-body movement when set to head oriented m
 Tested on a *Oculus Quest* on the *Kat Walk C2* on *Gateway version 2.0.9*.
 
 ### Credits:
-Game entry by: Anonymous
+Game entry by: Corysia
 
 ### Date of review:
 October 30
