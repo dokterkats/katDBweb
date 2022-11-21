@@ -1,5 +1,5 @@
 ---
-title: Wraith: The Oblivion - Afterlife (SteamVR)
+title: "Wraith: The Oblivion - Afterlife (SteamVR)"
 ---
 
 ## Rating (1-3)
