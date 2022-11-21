@@ -21,6 +21,6 @@
 #  url = "https://docs.neuralvibes.com"
 
  [[main]]
-   name = "Blogs"
+   name = "Posts"
    weight = 4
    url = "blog/"
