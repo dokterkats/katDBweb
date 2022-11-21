@@ -32,6 +32,7 @@ The information stated above comes from KatVR themselves. It is a collection of 
 
 ## Store Link (Affiliate links generated using Sovrn)
 [KatVR - Nexus](https://sovrn.co/1i90cxz)
+
 [Knoxlabs - Nexus](https://sovrn.co/lo33ik3)
 ## Video:
 {{< youtube fVA3AyVLW5k >}}
