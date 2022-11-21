@@ -30,9 +30,13 @@ It will not work with Kat VR devices that use the Kat I/O Software – KAT Walk 
 ### Where did this information come from?
 The information stated above comes from KatVR themselves. It is a collection of information taken from their Youtube Video, Website and their posts in the Community Discord Server,
 
-## Store Link (Affiliate links generated using Sovrn)
-[KatVR - Nexus](https://sovrn.co/1i90cxz)
+## Store Link
+[KatVR - Nexus (Affiliate)](https://sovrn.co/1i90cxz)
 
-[Knoxlabs - Nexus](https://sovrn.co/lo33ik3)
+[Knoxlabs - Nexus (Affiliate)](https://sovrn.co/lo33ik3)
+
+[KatVR - Nexus (Standard)](https://www.kat-vr.com/products/kat-nexus)
+
+[Knoxlabs - Nexus (Standard)](https://www.knoxlabs.com/products/kat-nexus)
 ## Video:
 {{< youtube fVA3AyVLW5k >}}
