@@ -24,3 +24,8 @@
    name = "Posts"
    weight = 4
    url = "blog/"
+   
+ [[main]]
+   name = "Contribute"
+   weight = 4
+   url = "support/"
