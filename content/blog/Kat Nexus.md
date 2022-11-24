@@ -20,7 +20,10 @@ Hardware wise it is just a small adapter that connects via cable to KAT VR devic
 ## When do you need one?
 The goal is to support all the standalone VR platforms with a single adapter. While support of other platforms is in the latest stages of development, KAT Nexus will VERY soon unlock compatibility with Pico Neo, VIVE, PlayStation VR and more yet to come! <br>
 
-KatVR has not tested the Quest Pro yet, but they will in near future. Based on the technological principle, they are not expecting any issues because the integration is carried out for the entire quest platform. But they will definitely inform the community as soon as they confirm with certainty that things work smoothly with the Quest Pro. <br>
+**Update from KatVR**: We are thrilled to announce that compatibility with the Meta Quest Pro for both PC VR and Standalone gaming has been confirmed🥳
+✔ Whether you are looking for more immersion from the perspective of the most basic entry into Virtual Reality with the Quest 2, or a prosumer setup with the Quest Pro, we've got you fully covered!
+
+- From KatVR's [Facebook](https://www.facebook.com/KATVR.Technology)
 
 ## What KatVR devices does it support?
 Nexus will work with all KAT VR devices operating in KAT Gateway software - KAT Walk C 1 / C2 / C2+ / loco / loco S. <br>
