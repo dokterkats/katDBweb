@@ -17,3 +17,5 @@ KatDB is a crowd-sourced project that relies on the community. You can contribut
 {{< /tip >}}
 
 Or see the Github [here](https://github.com/dokterkats/katDB). - Outdated for now, I will update it soon.
+
+<a rel="me" href="https://social.lol/@nats"></a>
