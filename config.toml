@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://katdb.info"
 title = "KatDB"
 enableRobotsTXT = true
 
@@ -9,13 +9,13 @@ theme = ["github.com/onweru/compose"] # edit this if you'ld rather use a fork of
 enableGitInfo = true
 enableEmoji = true
 googleAnalytics = "G-T16W38JL4P"
-disqusShortname = "katdb"
+#disqusShortname = "katdb"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 #enforce dark mode
 enforceDarkMode = true
-disqusShortname = 'katdb'
+#disqusShortname = 'katdb'
 
 [outputs]
   home = ["HTML", "RSS","JSON"]

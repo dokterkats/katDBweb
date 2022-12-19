@@ -19,6 +19,7 @@
           {{ partialCached "share" . }}
         </div>
         <div>
+        {{ partial "welcomments/comments" (dict "context" . "websiteId" "WQhziyYinCkdNHKfZOzlV1W2m" ) }}
         {{ template "_internal/disqus.html" . }}
         </div>
       </div>
