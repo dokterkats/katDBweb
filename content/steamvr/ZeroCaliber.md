@@ -1,5 +1,7 @@
 ---
 title: Zero Caliber (SteamVR)
+layout: default
+comments: true
 ---
 
 ## Rating (1-3)
@@ -21,11 +23,12 @@ Entry by: Dokterkat
 ### Date of review:
 July 2022
 
+{{< rawhtml >}}
 <div id="disqus_thread"></div>
 <script>
     var disqus_config = function () {
-    this.page.url = https://katdb.info;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = katdb; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = "https://katdb.info";
+    this.page.identifier = katdb;
     };
     
     (function() { // DON'T EDIT BELOW THIS LINE
@@ -36,3 +39,4 @@ July 2022
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{{< /rawhtml >}}
