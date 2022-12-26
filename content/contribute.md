@@ -4,5 +4,6 @@ weight: 10
 ---
 
 {{< tip >}}
-KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://docs.google.com/forms/d/1wP7F_-mtxvMWfDKCay0VkRYx6Alsk1jQ5oMiz01TmDs/edit).
+KatDB is getting an update, please contribute at the new website which is available for preview [here](https://v2.katdb.info)
 {{< /tip >}}
+

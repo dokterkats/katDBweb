@@ -69,12 +69,12 @@
     // Updates the "x comments" title when there are comments that are dynamically loaded.
     // By default, the result of this function becomes the innerText of an element with the
     // id "welcomments__comment-count-title". It's okay if that element doesn't exist.
-    commentCountTitleFactory: function (commentCount) {
-      if (commentCount === 0) {
-        return "No comments yet!";
-      }
+    // commentCountTitleFactory: function (commentCount) {
+    //  if (commentCount === 0) {
+    //    return "No comments yet!";
+    // }
 
-      return commentCount === 1 ? "One comment" : `${commentCount} comments`;
+     [-// return commentCount === 1 ? "One comment" : `${commentCount} comments`;
     },
 
     // Builds comments dynamically when they are not part of the static HTML of the rest of

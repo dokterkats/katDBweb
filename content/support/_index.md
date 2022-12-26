@@ -7,8 +7,9 @@ weight: 10
 * Future affiliate links will be linked here!
 * We can always use contributors for the database! 
 {{< tip >}}
-KatDB is a crowd-sourced project that relies on the community. You can contribute [here](https://docs.google.com/forms/d/1wP7F_-mtxvMWfDKCay0VkRYx6Alsk1jQ5oMiz01TmDs/edit).
+KatDB is getting an update, please contribute at the new website which is available for preview [here](https://v2.katdb.info)
 {{< /tip >}}
+
 
 # Paid Support Methods
 * A one-time support method (No PayPal account required)
